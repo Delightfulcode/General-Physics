@@ -1,2 +1,5 @@
 # General-Physics
-Physics projets
+
+## Physics projets
+
+Includes different physics projects ranging from mechanics to advanced thermodynamics 
